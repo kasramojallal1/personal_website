@@ -131,5 +131,6 @@ dmypy.json
 
 # personal
 .DS_Store
+.idea/
 my_website/core/settings.py
 
